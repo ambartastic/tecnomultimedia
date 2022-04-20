@@ -1,0 +1,23 @@
+size(1000,1000);
+background(#85D8C8);
+strokeWeight(30);
+line(600, 600, 200, 220);
+line(600, 600, 300, 150);
+line(600, 600, 400, 110);
+line(600, 600, 500, 100);
+line(600, 600, 600, 110);
+line(600, 600, 700, 150);
+line(600, 600, 800, 220);
+
+strokeWeight(10);
+fill(#FFF7FD);
+ellipse(500,500,600,400);
+strokeWeight(0);
+fill(#1E816E);
+circle(450,500,300);
+fill(#36052A);
+circle(420,500,150);
+fill(#FFF7FD);
+circle(400,480,50);
+circle(430,510,30);
+circle(400,518,15);
